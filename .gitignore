@@ -3,3 +3,8 @@
 composer.lock
 build
 /build/
+
+# Eclipse IDE
+.buildpath
+.project
+.settings/
